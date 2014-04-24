@@ -1,0 +1,66 @@
+{% extends "quotation/base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+
+    <form class="form-horizontal" action="/quotation/register/complete/" method="post">
+        <div class="control-group">
+            <label class="control-label" for="inputUsername">Username</label>
+
+            <div class="controls">
+                <input type="text" id="inputUsername" placeholder="Input username">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="inputPassword">Password</label>
+
+            <div class="controls">
+                <input type="password" id="inputPassword" placeholder="Password">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="inputPassword"></label>
+
+            <div class="controls">
+                <input type="password" id="inputPassword" placeholder="Retype Password">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="inputRealName">Real name</label>
+
+            <div class="controls">
+                <input type="text" id="inputRealName" placeholder="Real name">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="inputCellPhone">Cell phone</label>
+
+            <div class="controls">
+                <input type="text" id="inputCellPhone" placeholder="Cell phone">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="inputEmail">Email</label>
+
+            <div class="controls">
+                <input type="text" id="inputEmail" placeholder="Email">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" for="inputAddress">Address</label>
+
+            <div class="controls">
+                <input type="text" id="inputAddress" placeholder="Address">
+            </div>
+
+        </div>
+
+        <div class="control-group">
+            <div class="controls">
+                <button class="btn btn-large btn-primary" type="submit">Sign in</button>
+            </div>
+        </div>
+    </form>
+
+{% endblock %}
