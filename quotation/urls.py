@@ -6,6 +6,7 @@ from quotation import views
 
 urlpatterns = patterns('',
     url(r'^$', views.index, name='index'),
+    url(r'register/form/', views.register_form,name='register_form'),
     url(r'register/', views.register, name='register'),
 )+static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
