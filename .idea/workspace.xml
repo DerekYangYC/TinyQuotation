@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="964741d6-8dbc-4908-8225-e164eee9be1b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TinyQuotation.iml" afterPath="$PROJECT_DIR$/.idea/TinyQuotation.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/quotation/base.html" afterPath="$PROJECT_DIR$/templates/quotation/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/quotation/index.html" afterPath="$PROJECT_DIR$/templates/quotation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/quotation/login.html" afterPath="$PROJECT_DIR$/templates/quotation/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/quotation/register.html" afterPath="$PROJECT_DIR$/templates/quotation/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quotation/urls.py" afterPath="$PROJECT_DIR$/quotation/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quotation/views.py" afterPath="$PROJECT_DIR$/quotation/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -29,25 +34,6 @@
     <option name="myModuleName" value="TinyQuotation" />
     <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/templates/quotation/base.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="63" column="70" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.7292035" vertical-offset="659" max-vertical-offset="1513">
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="TinyQuotation" />
@@ -57,16 +43,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotation/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinyQuotation/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="45" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357">
+            <state line="15" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -75,7 +52,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/quotation/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
+            <state line="8" column="0" selection-start="147" selection-end="349" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/quotation/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="20" selection-start="348" selection-end="364" vertical-scroll-proportion="15.538462" vertical-offset="625" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/quotation/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="25" selection-start="977" selection-end="977" vertical-scroll-proportion="-17.0" vertical-offset="153" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -84,7 +79,7 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quotation/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="50" selection-start="921" selection-end="921" vertical-scroll-proportion="0.5882353" vertical-offset="102" max-vertical-offset="697">
+            <state line="46" column="10" selection-start="1625" selection-end="1625" vertical-scroll-proportion="1.0697675" vertical-offset="0" max-vertical-offset="1054">
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -95,16 +90,7 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotation/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="30" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/quotation/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="289">
+            <state line="5" column="30" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -113,7 +99,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TinyQuotation/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="39" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1768">
+            <state line="45" column="39" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1768">
               <folding />
             </state>
           </provider>
@@ -134,20 +120,22 @@
       <list>
         <option value="$PROJECT_DIR$/quotation/admin.py" />
         <option value="$PROJECT_DIR$/quotation/models.py" />
-        <option value="$PROJECT_DIR$/templates/quotation/index.html" />
         <option value="$PROJECT_DIR$/TinyQuotation/urls.py" />
         <option value="$PROJECT_DIR$/TinyQuotation/settings.py" />
+        <option value="$PROJECT_DIR$/templates/quotation/index.html" />
         <option value="$PROJECT_DIR$/templates/quotation/register.html" />
-        <option value="$PROJECT_DIR$/templates/quotation/login.html" />
         <option value="$PROJECT_DIR$/templates/quotation/base.html" />
         <option value="$PROJECT_DIR$/quotation/urls.py" />
+        <option value="$PROJECT_DIR$/templates/quotation/login.html" />
         <option value="$PROJECT_DIR$/quotation/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1253" />
-    <option name="height" value="1040" />
+    <option name="x" value="1300" />
+    <option name="y" value="120" />
+    <option name="width" value="1295" />
+    <option name="height" value="901" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -425,9 +413,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -449,6 +434,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -520,7 +508,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1253" height="1040" extended-state="0" />
+    <frame x="1300" y="120" width="1295" height="901" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -528,7 +516,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22212909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2194332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -558,9 +546,18 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/quotation/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TinyQuotation/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="45" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357">
@@ -581,13 +578,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/quotation/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="289">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,16 +841,16 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TinyQuotation/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/quotation/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="45" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357">
+        <state line="65" column="62" selection-start="2715" selection-end="2715" vertical-scroll-proportion="0.6971935" vertical-offset="633" max-vertical-offset="1547">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/quotation/register.html">
+    <entry file="file://$PROJECT_DIR$/TinyQuotation/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.060822897" vertical-offset="0" max-vertical-offset="1343">
+        <state line="13" column="45" selection-start="428" selection-end="428" vertical-scroll-proportion="0.20564516" vertical-offset="0" max-vertical-offset="744">
           <folding />
         </state>
       </provider>
@@ -879,37 +869,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotation/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/quotation/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="35" column="25" selection-start="977" selection-end="977" vertical-scroll-proportion="-17.0" vertical-offset="153" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/quotation/login.html">
+    <entry file="file://$PROJECT_DIR$/templates/quotation/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="289">
+        <state line="13" column="20" selection-start="348" selection-end="364" vertical-scroll-proportion="15.538462" vertical-offset="625" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/quotation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
+        <state line="8" column="0" selection-start="147" selection-end="349" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/quotation/base.html">
+    <entry file="file://$PROJECT_DIR$/quotation/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="70" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.7292035" vertical-offset="659" max-vertical-offset="1513">
+        <state line="15" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotation/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="50" selection-start="921" selection-end="921" vertical-scroll-proportion="0.5882353" vertical-offset="102" max-vertical-offset="697">
+        <state line="46" column="10" selection-start="1625" selection-end="1625" vertical-scroll-proportion="1.0697675" vertical-offset="0" max-vertical-offset="1054">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

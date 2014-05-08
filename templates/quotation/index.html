@@ -4,11 +4,13 @@
 {% block content %}
 
     <div class="jumbotron">
-        <h1>Marketing stuff!</h1>
+        <h1>{{ user.username }}</h1>
 
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus
-            commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <a class="btn btn-large btn-success" href="#">Get started today</a>
+        {% if user.is_authenticated %}
+            <p>Welcome, {{ user.username }}. Thanks for logging in.</p>
+        {% else %}
+            <p>Welcome, new user. Please log in.</p>
+        {% endif %}
     </div>
 
 {% endblock %}
